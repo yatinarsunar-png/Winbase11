@@ -1,0 +1,6 @@
+{
+  "name": "Winbase 11 - The Ultimate Windows Parody OS",
+  "description": "The official Winbase 11 parody landing page: The hilarious history of Windows 11, Blue Screen of Degens, TPM 2.0 drama, absurd AI features, and 100% pure memes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
